@@ -19,7 +19,7 @@
           <h3 class="mb-2 text-base font-medium uppercase text-gray-400 lg:mb-3 lg:font-semibold">
             Biography
           </h3>
-          <p class="w-40 text-sm md:w-auto md:pr-24 md:text-base lg:pr-36">
+          <p class="w-40 text-sm md:w-auto md:pr-24 md:text-base lg:pr-36 2xl:pr-52">
             Trying to create something out of nothing 😹 <br />
             I'm Maman, an Fullstack Developer in Indonesia.
           </p>

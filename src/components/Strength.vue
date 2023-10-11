@@ -7,19 +7,19 @@ import iconVue from './Icons/Vue.vue'
 </script>
 <template>
   <!-- my strength -->
-  <section class="font-lora py-16 lg:py-20">
+  <section class="py-16 font-lora lg:py-20">
     <div class="">
       <h1
-        class="mb-10 text-center text-2xl font-semibold text-slate-900 lg:mb-14 lg:text-3xl lg:font-medium"
+        class="mb-8 text-center text-2xl font-semibold text-slate-900 lg:mb-14 lg:text-3xl lg:font-medium"
       >
         My Strength
       </h1>
       <div
-        class="flex flex-wrap justify-center gap-x-5 gap-y-8 md:justify-between lg:justify-center lg:gap-x-10"
+        class="flex flex-wrap justify-center gap-x-3 gap-y-8 md:justify-between lg:justify-center lg:gap-x-10"
       >
-        <div class="pill">
+        <div class="pill scale-90 md:scale-100">
           <div
-            class="bg-circle interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full"
+            class="interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full bg-circle"
           >
             <iconFigma class="w-14" />
             <!-- <img class="w-14" src="./public/assets/images/figma.svg" alt="lg" /> -->
@@ -27,9 +27,9 @@ import iconVue from './Icons/Vue.vue'
           </div>
           <p class="mt-2 text-center text-sm">Figma</p>
         </div>
-        <div class="pill">
+        <div class="pill scale-90 md:scale-100">
           <div
-            class="bg-circle interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full"
+            class="interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full bg-circle"
           >
             <iconJavascript class="w-14" />
             <!-- <img class="w-14" src="./public/assets/images/adobexd.svg" alt="lg" /> -->
@@ -37,9 +37,9 @@ import iconVue from './Icons/Vue.vue'
           </div>
           <p class="mt-2 text-center text-sm">Javascript</p>
         </div>
-        <div class="pill">
+        <div class="pill scale-90 md:scale-100">
           <div
-            class="bg-circle interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full"
+            class="interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full bg-circle"
           >
             <!-- <img class="w-14" src="./public/assets/images/js.svg" alt="lg" /> -->
             <!-- <h4 class="text-sm">🤓</h4> -->
@@ -47,9 +47,9 @@ import iconVue from './Icons/Vue.vue'
           </div>
           <p class="mt-2 text-center text-sm">Vue Js</p>
         </div>
-        <div class="pill">
+        <div class="pill scale-90 md:scale-100">
           <div
-            class="bg-circle interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full"
+            class="interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full bg-circle"
           >
             <iconTailwind class="w-14" />
             <!-- <img class="w-14" src="./public/assets/images/html5.svg" alt="lg" /> -->
@@ -57,18 +57,18 @@ import iconVue from './Icons/Vue.vue'
           </div>
           <p class="mt-2 text-center text-sm">B5/Tailwind</p>
         </div>
-        <div class="pill">
+        <div class="pill scale-90 md:scale-100">
           <div
-            class="bg-circle interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full"
+            class="interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full bg-circle"
           >
             <img class="w-14" src="https://img.icons8.com/nolan/96/laravel.png" alt="lg" />
             <!-- <h4 class="text-sm">🫣</h4> -->
           </div>
           <p class="mt-2 text-center text-sm">Laravel</p>
         </div>
-        <div class="pill">
+        <div class="pill scale-90 md:scale-100">
           <div
-            class="bg-circle interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full"
+            class="interaction flex h-36 w-24 flex-col items-center justify-center gap-y-1 rounded-full bg-circle"
           >
             <iconSql class="w-14" />
             <!-- <img class="w-14" src="./public/assets/images/python.svg" alt="lg" /> -->

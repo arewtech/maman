@@ -3,10 +3,10 @@
   <!-- navigation -->
   <div class="flex items-center justify-between py-3 lg:py-8">
     <div class="flex items-center justify-between gap-3 md:order-first">
-      <div class="text-sm font-medium uppercase md:text-xs lg:font-semibold">
+      <div class="text-xs font-medium uppercase lg:font-semibold">
         <a href="#works">Works</a>
       </div>
-      <div class="text-sm font-medium uppercase md:text-xs lg:font-semibold">
+      <div class="text-xs font-medium uppercase md:text-xs lg:font-semibold">
         <a href="#contact">Contact</a>
       </div>
     </div>
