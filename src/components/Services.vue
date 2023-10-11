@@ -10,7 +10,7 @@
       <div class="max-w-[18rem] text-center">
         <img
           class="m-auto h-24 w-28 rounded-full lg:h-32 lg:w-36"
-          src="/public/images/services/service-1.png"
+          src="/images/services/service-1.png"
           alt="services"
         />
         <h3 class="mt-2 font-lora text-lg font-normal lg:text-sm">Design</h3>
@@ -22,7 +22,7 @@
       <div class="max-w-[18rem] text-center">
         <img
           class="m-auto h-24 w-28 rounded-full lg:h-32 lg:w-36"
-          src="/public/images/services/service-2.png"
+          src="/images/services/service-2.png"
           alt="services"
         />
         <h3 class="mt-2 font-lora text-lg font-normal lg:text-sm">UI/UX</h3>
@@ -34,7 +34,7 @@
       <div class="max-w-[18rem] text-center">
         <img
           class="m-auto h-24 w-28 rounded-full lg:h-32 lg:w-36"
-          src="/public/images/services/service-3.png"
+          src="/images/services/service-3.png"
           alt="services"
         />
         <h3 class="mt-2 font-lora text-lg font-normal lg:text-sm">Developer</h3>
