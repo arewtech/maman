@@ -14,7 +14,9 @@
           <a href="https://github.com/arewtech" target="_blank"
             ><i class="bx bxl-github text-xl lg:text-lg"></i
           ></a>
-          <a href="#"><i class="bx bxl-linkedin text-xl lg:text-lg"></i></a>
+          <a href="https://www.linkedin.com/in/maman27/" target="_blank"
+            ><i class="bx bxl-linkedin text-xl lg:text-lg"> </i
+          ></a>
         </div>
       </div>
     </div>

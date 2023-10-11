@@ -4,10 +4,10 @@
   <div class="flex items-center justify-between py-3 lg:py-8">
     <div class="flex items-center justify-between gap-3 md:order-first">
       <div class="text-sm font-medium uppercase md:text-xs lg:font-semibold">
-        <a href="#same">Works</a>
+        <a href="#works">Works</a>
       </div>
       <div class="text-sm font-medium uppercase md:text-xs lg:font-semibold">
-        <a href="#same">Contact</a>
+        <a href="#contact">Contact</a>
       </div>
     </div>
     <div class="logo order-first font-lora text-xl font-semibold">Maman 👨🏻‍💻</div>

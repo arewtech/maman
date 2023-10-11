@@ -14,7 +14,7 @@
             Call <br />
             Maman
           </h1>
-          <img class="w-14" src="/public/images/arrow.svg" alt="" />
+          <img class="w-14" src="/images/arrow.svg" alt="" />
         </div>
       </div>
     </a>

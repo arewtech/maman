@@ -1,6 +1,6 @@
 <template>
   <!-- content -->
-  <div id="same" class="scroll-mt-12 py-3 lg:mt-10 lg:pb-16 lg:pt-5">
+  <div id="contact" class="scroll-mt-12 py-3 lg:mt-10 lg:pb-16 lg:pt-5">
     <div
       class="flex flex-wrap justify-between gap-y-10 md:justify-center lg:items-start lg:justify-between"
     >
@@ -9,11 +9,7 @@
         <div
           class="bruno m-auto w-[70%] overflow-hidden rounded-full bg-avatar pt-4 md:w-1/2 lg:h-[480px] lg:w-[340px]"
         >
-          <img
-            class="w-full lg:-translate-y-8 lg:scale-95"
-            src="https://codes-cc.github.io/portfolio-bruno/public/assets/images/avatar.png"
-            alt="maman"
-          />
+          <img class="w-[21rem] scale-125 lg:translate-y-5" src="/images/haha.jpg" alt="maman" />
         </div>
       </div>
       <!-- end avatar -->
