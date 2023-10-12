@@ -1,6 +1,6 @@
 <template>
   <!-- latest project -->
-  <section id="works" class="-scroll-mt-12 py-16 lg:py-20">
+  <section id="project" class="-scroll-mt-12 py-16 lg:py-20">
     <h1
       class="mb-10 text-center font-lora text-2xl font-semibold text-slate-900 lg:mb-14 lg:text-3xl lg:font-medium"
     >
@@ -17,13 +17,15 @@
             >Public
           </span>
         </div>
-        <div class="images-product shadow-3xl overflow-hidden rounded-md border border-gray-50">
-          <img
-            class="cursor-pointer"
-            src="https://raw.githubusercontent.com/arewtech/amerta/main/public/design/preview-hero.png"
-            alt=""
-          />
-        </div>
+        <a href="https://github.com/arewtech/amerta" target="_blank">
+          <div class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl">
+            <img
+              class="cursor-pointer"
+              src="https://raw.githubusercontent.com/arewtech/amerta/main/public/design/preview-hero.png"
+              alt=""
+            />
+          </div>
+        </a>
         <div class="pt-4">
           <p class="text-sm font-medium text-gray-500 lg:text-xs lg:text-gray-400">
             Web Development
@@ -51,13 +53,15 @@
             >Public
           </span>
         </div>
-        <div class="images-product shadow-3xl overflow-hidden rounded-md border border-gray-50">
-          <img
-            class="cursor-pointer"
-            src="https://raw.githubusercontent.com/arewtech/luminary/development/public/assets/preview/dashboard.png"
-            alt="image"
-          />
-        </div>
+        <a href="https://github.com/arewtech/luminary" target="_blank">
+          <div class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl">
+            <img
+              class="cursor-pointer"
+              src="https://raw.githubusercontent.com/arewtech/luminary/development/public/assets/preview/dashboard.png"
+              alt="image"
+            />
+          </div>
+        </a>
         <div class="pt-4">
           <p class="text-sm font-medium text-gray-500 lg:text-xs lg:text-gray-400">
             Web Development
@@ -85,7 +89,7 @@
             >Private
           </span>
         </div>
-        <div class="images-product shadow-3xl overflow-hidden rounded-md border border-gray-50">
+        <div class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl">
           <img class="cursor-pointer" src="/images/projects/fertilizers.png" alt="image" />
         </div>
         <div class="pt-4">
@@ -115,7 +119,7 @@
             >Private
           </span>
         </div>
-        <div class="images-product shadow-3xl overflow-hidden rounded-md border border-gray-50">
+        <div class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl">
           <img class="cursor-pointer" src="/images/projects/archives.png" alt="" />
         </div>
         <div class="pt-4">
@@ -145,7 +149,7 @@
             >Private
           </span>
         </div>
-        <div class="images-product shadow-3xl overflow-hidden rounded-md border border-gray-50">
+        <div class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl">
           <img class="cursor-pointer" src="/images/projects/sekolahku.png" alt="" />
         </div>
         <div class="pt-4">
@@ -175,9 +179,11 @@
             >Public
           </span>
         </div>
-        <div class="images-product shadow-3xl overflow-hidden rounded-md border border-gray-50">
-          <img class="cursor-pointer" src="/images/projects/slicementor.png" alt="" />
-        </div>
+        <a href="https://iotm-co.github.io/slice-mentor/" target="_blank">
+          <div class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl">
+            <img class="cursor-pointer" src="/images/projects/slicementor.png" alt="" />
+          </div>
+        </a>
         <div class="pt-4">
           <p class="text-sm font-medium text-gray-500 lg:text-xs lg:text-gray-400">Web Design</p>
           <h3 class="text-base font-semibold text-slate-900 lg:text-sm">Slice Mentor</h3>
