@@ -31,7 +31,7 @@
           <div>
             <p>Probolinggo, Indonesia</p>
             <p>maman27.dev@gmail.com</p>
-            <p>+62 0822 4645 4048</p>
+            <p>+62 822 4645 4048</p>
           </div>
         </div>
         <div class="mb-5 text-sm md:text-base lg:mb-10">

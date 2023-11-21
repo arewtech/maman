@@ -1,6 +1,6 @@
 <template>
   <!-- education & experience -->
-  <section class="font-lora py-16 lg:py-20">
+  <section class="py-16 font-lora lg:py-20">
     <div class="">
       <h1
         class="mb-10 text-center text-2xl font-semibold text-slate-900 lg:mb-14 lg:text-3xl lg:font-medium"
@@ -20,10 +20,10 @@
           <span class="mb-5 block text-base font-semibold text-gray-500 lg:mb-8">2019-2021</span>
           <h3 class="font-semibold">Web Designer</h3>
           <p class="mb-3 text-sm text-gray-500">Freelance, WFA</p>
-          <h3 class="font-semibold">Leader Web Designer</h3>
+          <h3 class="font-semibold">Web Development</h3>
           <p class="mb-3 text-sm text-gray-500">Jfe Studio, Probolinggo</p>
-          <h3 class="font-semibold">CommIT Developer</h3>
-          <p class="mb-3 text-sm text-gray-500">Nurul Jadid University</p>
+          <h3 class="font-semibold">Frontend Developer</h3>
+          <p class="mb-3 text-sm text-gray-500">CommIT, Probolinggo</p>
           <h3 class="font-semibold">Web Designer &amp; Developer</h3>
           <p class="text-sm text-gray-500">Inkubasi Startup Teknik 2021</p>
         </div>
@@ -33,14 +33,14 @@
           >
           <h3 class="font-semibold">Web Designer</h3>
           <p class="mb-3 text-sm text-gray-500">Freelance, WFA</p>
-          <h3 class="font-semibold">Vocational Programs</h3>
-          <p class="mb-3 text-sm text-gray-500">Kampus Mengajar, Purbalingga</p>
+          <h3 class="font-semibold">Bachelor of Informatics Engineering</h3>
+          <p class="mb-3 text-sm text-gray-500">Nurul Jadid University, Probolinggo</p>
           <h3 class="font-semibold">Junior Web Developer</h3>
           <p class="mb-3 text-sm text-gray-500">Kominfo ( Digitalent ) | ITS</p>
-          <h3 class="font-semibold">Fullstack Developer ( Intern )</h3>
+          <h3 class="font-semibold">Fullstack Developer</h3>
           <p class="mb-3 text-sm text-gray-500">Citiasia.inc, Jakarta</p>
-          <h3 class="font-semibold">Digital Platform ( Training )</h3>
-          <p class="text-sm text-gray-500">Ponpes Nurul Jadid, Probolinggo</p>
+          <h3 class="font-semibold">Frontend Developer</h3>
+          <p class="text-sm text-gray-500">Digital Platform, Probolinggo</p>
         </div>
       </div>
     </div>
