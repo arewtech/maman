@@ -10,7 +10,7 @@
         <a href="#contact">Contact</a>
       </div>
       <div class="text-xs font-medium uppercase md:text-xs lg:font-semibold">
-        <a download href="/images/cv/CV-Abdur-Rohman-Wahid-0.2.pdf">CV</a>
+        <a download href="/images/cv/Cv-Abdur-Rohman-Wahid-FD.pdf">CV</a>
       </div>
     </div>
     <div class="logo order-first font-lora text-xl font-semibold">
