@@ -21,7 +21,7 @@
         </a>
       </div>
       <div class="basis-[4.4rem]">
-        <a href="https://github.com/codes-cc">
+        <a href="https://github.com/learnium-labs">
           <img
             class="w-full rounded-full grayscale transition-all duration-300 ease-linear hover:grayscale-0"
             src="https://avatars.githubusercontent.com/u/140188963?s=200&v=4"
