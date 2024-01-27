@@ -34,6 +34,49 @@
   border: dotted 2px #ddd;
 }
 
+.card-format .card:first-child::before {
+  content: 'Coming Soon';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f1f1f1;
+  font-size: 1.4rem;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 0.8rem;
+  z-index: 10;
+  -webkit-animation: tracking-in-expand 3s cubic-bezier(0.215, 0.61, 0.355, 1) infinite both;
+  animation: tracking-in-expand 3s cubic-bezier(0.215, 0.61, 0.355, 1) infinite both;
+}
+
+@-webkit-keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes tracking-in-expand {
+  0% {
+    letter-spacing: -0.5em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 @media (min-width: 768px) {
   .bruno:after {
     width: 55%;
