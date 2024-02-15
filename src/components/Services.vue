@@ -14,10 +14,10 @@
           alt="services"
         />
         <h3 class="mt-2 font-lora text-lg font-normal lg:text-sm">Design</h3>
-        <p class="my-1 text-sm font-semibold italic text-indigo-600 lg:text-xs">Cooming Soon</p>
-        <p class="text-sm text-gray-500 lg:text-xs">--------------------------------</p>
-        <p class="text-sm text-gray-500 lg:text-xs">-------------------</p>
-        <p class="text-sm text-gray-500 lg:text-xs">-------</p>
+        <p class="my-1 text-sm font-semibold italic text-indigo-600 lg:text-xs">
+          Web Design, Graphic Design
+        </p>
+        <p class="text-sm text-gray-500 lg:text-xs">Figma, Adobe XD, Photoshop, CorelDRAW, etc</p>
       </div>
       <div class="max-w-[18rem] text-center">
         <img
@@ -26,10 +26,12 @@
           alt="services"
         />
         <h3 class="mt-2 font-lora text-lg font-normal lg:text-sm">UI/UX</h3>
-        <p class="my-1 text-sm font-semibold italic text-indigo-600 lg:text-xs">Cooming Soon</p>
-        <p class="text-sm text-gray-500 lg:text-xs">--------------------------------</p>
-        <p class="text-sm text-gray-500 lg:text-xs">-------------------</p>
-        <p class="text-sm text-gray-500 lg:text-xs">-------</p>
+        <p class="my-1 text-sm font-semibold italic text-indigo-600 lg:text-xs">
+          UI/UX Design, Prototyping
+        </p>
+        <p class="text-sm text-gray-500 lg:text-xs">
+          Figma, Adobe XD, InVision, Sketch, Zeplin, etc
+        </p>
       </div>
       <div class="max-w-[18rem] text-center">
         <img
@@ -38,10 +40,12 @@
           alt="services"
         />
         <h3 class="mt-2 font-lora text-lg font-normal lg:text-sm">Developer</h3>
-        <p class="my-1 text-sm font-semibold italic text-indigo-600 lg:text-xs">Cooming Soon</p>
-        <p class="text-sm text-gray-500 lg:text-xs">--------------------------------</p>
-        <p class="text-sm text-gray-500 lg:text-xs">-------------------</p>
-        <p class="text-sm text-gray-500 lg:text-xs">-------</p>
+        <p class="my-1 text-sm font-semibold italic text-indigo-600 lg:text-xs">
+          Web Developer, Fullstack Developer
+        </p>
+        <p class="text-sm text-gray-500 lg:text-xs">
+          HTML, CSS, JavaScript, Vue, MySQL, PHP, Laravel, Tailwind, Bootstrap, etc
+        </p>
       </div>
     </div>
   </section>

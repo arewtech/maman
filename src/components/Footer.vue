@@ -4,7 +4,7 @@
     <div class="flex flex-col items-center justify-center gap-y-2 py-5">
       <div class="col">
         <p class="text-center text-sm text-gray-500">
-          © 2023 Created By
+          © 2019 - 2024 Created By
           <a href="https://github.com/arewtech" class="font-semibold" target="_blank">Maman</a> All
           Rights Reserved.
         </p>

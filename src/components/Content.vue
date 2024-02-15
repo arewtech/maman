@@ -40,8 +40,8 @@
           </h3>
           <div>
             <p>UI/UX Design</p>
-            <p>Website Design</p>
-            <p>Animation</p>
+            <p>Graphic Design</p>
+            <p>Web Development</p>
           </div>
         </div>
       </div>
