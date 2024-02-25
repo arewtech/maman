@@ -30,6 +30,8 @@
           <span class="mb-5 block text-base font-semibold text-gray-500 lg:mb-8">PRESENT</span>
           <h3 class="font-semibold">Web Designer</h3>
           <p class="mb-3 text-sm text-gray-500">Freelance, WFA</p>
+          <h3 class="font-semibold">Fullstack Developer</h3>
+          <p class="mb-3 text-sm text-gray-500">Sinergi Inovasi Tekno, Jakarta</p>
           <h3 class="font-semibold">Frontend Web Developer</h3>
           <p class="text-sm text-gray-500">Oxxo Creative Digital, Jakarta</p>
         </div>
