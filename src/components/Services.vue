@@ -6,7 +6,11 @@
     >
       Services
     </h1>
-    <div class="flex flex-wrap items-center justify-center gap-y-10 md:gap-x-16">
+    <div
+      data-aos="fade-up"
+      data-aos-duration="1500"
+      class="flex flex-wrap items-center justify-center gap-y-10 md:gap-x-16"
+    >
       <div class="max-w-[18rem] text-center">
         <img
           class="m-auto h-24 w-28 rounded-full lg:h-32 lg:w-36"

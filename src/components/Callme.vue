@@ -1,7 +1,7 @@
 <template>
   <!-- callme -->
   <section class="flex justify-center py-16 font-lora md:scale-90 lg:scale-100 lg:py-20">
-    <a href="mailto:rohman.banana27@gmail.com">
+    <a data-aos="zoom-in-up" data-aos-duration="1500" href="mailto:rohman.banana27@gmail.com">
       <div
         class="flex h-64 w-64 items-center justify-center rounded-full border border-dashed border-slate-500 transition-transform duration-300 ease-in-out hover:scale-105 hover:border-double hover:border-slate-500"
       >

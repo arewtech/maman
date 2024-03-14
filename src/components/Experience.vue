@@ -7,7 +7,11 @@
       >
         Education &amp; Experience
       </h1>
-      <div class="flex flex-wrap gap-y-10 text-center md:justify-between md:text-left">
+      <div
+        data-aos="fade-up"
+        data-aos-duration="1500"
+        class="flex flex-wrap gap-y-10 text-center md:justify-between md:text-left"
+      >
         <div class="basis-full md:basis-1/3">
           <span class="mb-5 block text-base font-semibold text-gray-500 lg:mb-8">2020 - 2021</span>
           <h3 class="font-semibold">Frontend Developer</h3>

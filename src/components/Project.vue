@@ -32,7 +32,11 @@ const colorStatus = (status) => {
       My Latest Project
     </h1>
     <!-- latest -->
-    <div class="card-format flex flex-wrap justify-center gap-7">
+    <div
+      data-aos="fade-up"
+      data-aos-duration="1500"
+      class="card-format flex flex-wrap justify-center gap-7"
+    >
       <div
         v-for="(post, index) in portfolioPosts"
         :key="index"

@@ -1,7 +1,12 @@
 <template>
   <!-- brands -->
   <section class="py-16 lg:py-20">
-    <div class="flex flex-wrap items-center justify-center gap-6 lg:gap-x-7">
+    <div
+      data-aos="fade-up"
+      data-aos-duration="1500"
+      data-aos-anchor-placement="bottom-bottom"
+      class="flex flex-wrap items-center justify-center gap-6 lg:gap-x-7"
+    >
       <div class="basis-[4.4rem]">
         <a href="https://github.com/commitunuja">
           <img

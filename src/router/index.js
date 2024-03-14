@@ -1,5 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/Homepage.vue'
+// import { AOS } from 'aos'
+// import 'aos/dist/aos.css'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -16,5 +18,10 @@ const router = createRouter({
     // }
   ]
 })
+
+// router.beforeEach((to, from, next) => {
+//   AOS.init() // Initialize AOS
+//   next()
+// })
 
 export default router

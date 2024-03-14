@@ -15,6 +15,8 @@ import iconVue from './Icons/Vue.vue'
         My Strength
       </h1>
       <div
+        data-aos="fade-up"
+        data-aos-duration="1500"
         class="flex flex-wrap justify-center gap-x-3 gap-y-8 md:justify-between lg:justify-center lg:gap-x-10"
       >
         <div class="pill scale-90 md:scale-100">

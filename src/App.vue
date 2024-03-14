@@ -1,16 +1,17 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import { ref, onMounted } from 'vue'
+import AOS from 'aos'
+
 const loading = ref(true)
 
 onMounted(() => {
+  AOS.init()
   setTimeout(() => {
     loading.value = false
-    // remove scroll lock with inline style css
     document.body.style.overflow = 'auto'
   }, 3000)
 
-  // lock scroll
   document.body.style.overflow = 'hidden'
 })
 </script>
@@ -30,7 +31,7 @@ onMounted(() => {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.95);
+  background-color: rgba(0, 0, 0, 1);
   display: flex;
   justify-content: center;
   align-items: center;
