@@ -34,7 +34,8 @@
   border: dotted 2px #ddd;
 }
 
-.card-format .card:first-child::before {
+.card-format .card:nth-child(1)::before,
+.card-format .card:nth-child(2)::before {
   content: 'Coming Soon';
   display: flex;
   justify-content: center;

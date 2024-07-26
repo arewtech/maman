@@ -9,6 +9,8 @@ const colorTags = (tag) => {
       return 'bg-sky-100 text-sky-500'
     case 'react':
       return 'bg-blue-100 text-blue-500'
+    case 'golang':
+      return 'bg-sky-100 text-sky-500'
     default:
       return 'bg-indigo-100 text-indigo-500'
   }
@@ -18,8 +20,10 @@ const colorStatus = (status) => {
   switch (status) {
     case 'private':
       return 'bg-red-100 text-red-500'
-    default:
+    case 'public':
       return 'bg-indigo-100 text-blue-500'
+    default:
+      return 'bg-yellow-100 text-yellow-500'
   }
 }
 </script>

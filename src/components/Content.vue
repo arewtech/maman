@@ -9,7 +9,11 @@
         <div
           class="bruno m-auto w-[70%] overflow-hidden rounded-full bg-avatar pt-4 md:w-1/2 lg:h-[480px] lg:w-[340px]"
         >
-          <img class="w-[21rem] scale-125 lg:translate-y-5" src="/images/haha.jpg" alt="maman" />
+          <img
+            class="w-[21rem] -translate-y-8 scale-125 lg:-translate-y-10"
+            src="/images/xd.jpg"
+            alt="maman"
+          />
         </div>
       </div>
       <!-- end avatar -->
@@ -29,7 +33,7 @@
             Contact
           </h3>
           <div>
-            <p>Probolinggo, Indonesia</p>
+            <p>Bandung, Indonesia</p>
             <p>maman27.dev@gmail.com</p>
             <!-- <p>+62 822 66** 66**</p> -->
           </div>
