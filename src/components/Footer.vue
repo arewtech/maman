@@ -8,7 +8,7 @@ const currentYear = new Date().getFullYear()
       <div class="col">
         <p class="text-center text-sm text-gray-500">
           © 2019 - {{ currentYear }} Created By
-          <a href="https://github.com/arewtech" class="font-semibold" target="_blank">Maman</a> All
+          <a href="https://github.com/arewtech" class="font-semibold" target="_blank">nvxxe_</a> All
           Rights Reserved.
         </p>
       </div>
