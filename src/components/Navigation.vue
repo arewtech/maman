@@ -14,7 +14,8 @@
       </div>
     </div>
     <div class="logo order-first font-lora text-xl font-semibold">
-      <span class="hidden md:inline-block">Maman</span> 👨🏻‍💻
+      <!-- <span class="hidden md:inline-block">Maman</span> -->
+      👨🏻‍💻
     </div>
     <div class="social-media hidden md:block">
       <div class="flex items-center justify-center gap-2">
