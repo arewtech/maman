@@ -26,7 +26,7 @@
           <h3 class="font-semibold">Frontend Developer</h3>
           <p class="mb-3 text-sm text-gray-500">Digital Platform, Probolinggo</p>
           <h3 class="font-semibold">Junior Web Developer</h3>
-          <p class="mb-3 text-sm text-gray-500">Kominfo ( Digitalent ) | ITS</p>
+          <p class="mb-3 text-sm text-gray-500">Kominfo ( Digitalent )</p>
           <h3 class="font-semibold">Bachelor of Informatics Engineering</h3>
           <p class="text-sm text-gray-500">Nurul Jadid University, Probolinggo</p>
         </div>
@@ -36,8 +36,8 @@
           <p class="mb-3 text-sm text-gray-500">Freelance, WFA</p>
           <h3 class="font-semibold">Fullstack Developer</h3>
           <p class="mb-3 text-sm text-gray-500">Sinergi Inovasi Tekno, Jakarta</p>
-          <h3 class="font-semibold">Frontend Web Developer</h3>
-          <p class="text-sm text-gray-500">Oxxo Creative Digital, Jakarta</p>
+          <h3 class="font-semibold">Frontend Developer</h3>
+          <p class="text-sm text-gray-500">Eon Creative Digital, Jakarta</p>
         </div>
       </div>
     </div>
