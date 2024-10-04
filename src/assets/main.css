@@ -35,7 +35,8 @@
 }
 
 .card-format .card:nth-child(1)::before,
-.card-format .card:nth-child(2)::before {
+.card-format .card:nth-child(2)::before,
+.card-format .card:nth-child(3)::before {
   content: 'Coming Soon';
   display: flex;
   justify-content: center;

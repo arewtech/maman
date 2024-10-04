@@ -9,6 +9,15 @@ export const portfolioPosts = [
   //     tags: ['laravel', 'bootstrap']
   //   },
   {
+    title: 'Rent Two Rent',
+    category: 'Web Development',
+    image: '/images/projects/r2r.png',
+    link: '',
+    desc: 'Johnny Andrean is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
+    status: 'development',
+    tags: ['laravel', 'golang', 'bootstrap']
+  },
+  {
     title: 'Johnny Andrean',
     category: 'Web Development',
     image: '/images/projects/johnny-app.png',
@@ -25,6 +34,15 @@ export const portfolioPosts = [
     desc: 'Attendify is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
     status: 'development',
     tags: ['laravel', 'golang', 'bootstrap']
+  },
+  {
+    title: 'Immunify',
+    category: 'Web Development',
+    image: '/images/projects/immunify-app.png',
+    link: '',
+    desc: 'Immunify is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
+    status: 'private',
+    tags: ['laravel', 'bootstrap']
   },
   {
     title: 'Attendify',

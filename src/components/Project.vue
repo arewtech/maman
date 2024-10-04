@@ -44,7 +44,7 @@ const colorStatus = (status) => {
       <div
         v-for="(post, index) in portfolioPosts"
         :key="index"
-        class="card relative max-w-[18rem] overflow-hidden rounded-lg border border-slate-100 bg-white/70 p-1 text-center shadow-sm transition-transform duration-300 ease-in-out hover:-translate-y-1 2xl:max-w-sm"
+        class="card relative w-[80%] md:w-[27.5%] overflow-hidden rounded-lg border border-slate-100 bg-white/70 p-1 text-center shadow-sm transition-transform duration-300 ease-in-out hover:-translate-y-1"
       >
         <!-- badge for new project -->
         <div class="absolute right-3 top-2">
@@ -66,7 +66,7 @@ const colorStatus = (status) => {
           v-else
           class="images-product overflow-hidden rounded-md border border-gray-50 shadow-3xl outline outline-1 outline-slate-100"
         >
-          <img class="h-[8.1rem] w-full object-contain" :src="post.image" :alt="post.title" />
+          <img class="h-[8.1rem] w-full" :src="post.image" :alt="post.title" />
         </div>
         <div class="pt-4">
           <p class="text-sm font-medium text-gray-500 lg:text-xs lg:text-gray-400">
