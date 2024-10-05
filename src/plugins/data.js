@@ -15,7 +15,7 @@ export const portfolioPosts = [
     link: '',
     desc: 'Johnny Andrean is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
     status: 'development',
-    tags: ['laravel', 'golang', 'bootstrap']
+    tags: ['laravel', 'golang', 'tailwind']
   },
   {
     title: 'Johnny Andrean',
