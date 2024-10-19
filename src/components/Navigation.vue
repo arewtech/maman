@@ -9,9 +9,10 @@
       <div class="text-xs font-medium uppercase md:text-xs lg:font-semibold">
         <a href="#contact">Contact</a>
       </div>
-      <div class="text-xs font-medium uppercase md:text-xs lg:font-semibold">
-        <a download href="/images/cv/cv-abdur-rohman-wahid.pdf">CV</a>
-      </div>
+      <del class="text-xs font-medium text-slate-400 uppercase md:text-xs lg:font-semibold">
+        <!-- <a download href="/images/cv/cv-abdur-rohman-wahid.pdf">CV</a> -->
+        <a>CV</a>
+      </del>
     </div>
     <div class="logo order-first font-lora text-xl font-semibold">
       <!-- <span class="hidden md:inline-block">Maman</span> -->
