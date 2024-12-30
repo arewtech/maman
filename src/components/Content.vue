@@ -59,7 +59,7 @@
             Years of <br />
             experience
           </h3>
-          <p class="text-xl font-semibold lg:text-2xl lg:font-medium">3</p>
+          <p class="text-xl font-semibold lg:text-2xl lg:font-medium">2</p>
         </div>
         <div class="mb-5 lg:mb-10">
           <h3

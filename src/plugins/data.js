@@ -18,21 +18,21 @@ export const portfolioPosts = [
     tags: ['laravel', 'golang', 'tailwind']
   },
   {
-    title: 'Johnny Andrean',
-    category: 'Web Development',
-    image: '/images/projects/johnny-app.png',
-    link: '',
-    desc: 'Johnny Andrean is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
-    status: 'development',
-    tags: ['laravel', 'golang', 'bootstrap']
-  },
-  {
     title: 'Grow',
     category: 'Web Development',
     image: '/images/projects/grow-app.png',
     link: '',
     desc: 'Attendify is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
     status: 'development',
+    tags: ['laravel', 'golang', 'bootstrap']
+  },
+  {
+    title: 'Johnny Andrean',
+    category: 'Web Development',
+    image: '/images/projects/johnny-app.png',
+    link: 'https://jaonlineacademy.com/id/',
+    desc: 'Johnny Andrean is a web application for managing and monitoring the performance of the company. This application is built using Laravel 10 and Bootstrap 5.',
+    status: 'public',
     tags: ['laravel', 'golang', 'bootstrap']
   },
   {
